@@ -47,12 +47,6 @@ Ranks are listed from back to front: `R4` is the back rank, `R1` is the front ra
 
 The data was extracted from video chapters, descriptions, subtitles, and visible team screens. Hero and combat-skill names were cross-checked against local Darkest Dungeon wiki data, then skill lists were ordered by each hero's wiki combat-skill order rather than by mention order in the video.
 
-The source wiki data used during extraction was local scraper output from:
-
-```text
-/Users/arthur/Developer/darkest-dungeon-wiki-scraper/darkestdungeon_wiki
-```
-
 ## Caveats
 
 - This repo summarizes gameplay guidance from the videos; it is not an official Red Hook Studios resource.
